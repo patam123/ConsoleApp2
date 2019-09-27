@@ -1,0 +1,14 @@
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.2\ImageEditorConsole.deps.json
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.2\ImageEditorConsole.runtimeconfig.json
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.2\ImageEditorConsole.runtimeconfig.dev.json
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.2\ImageEditorConsole.dll
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.2\ImageEditorConsole.pdb
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.2\ImageEditorClassLibrary.dll
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.2\ImageEditorClassLibrary.pdb
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.2\ImageEditorConsole.csprojAssemblyReference.cache
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.2\ImageEditorConsole.csproj.CoreCompileInputs.cache
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.2\ImageEditorConsole.AssemblyInfoInputs.cache
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.2\ImageEditorConsole.AssemblyInfo.cs
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.2\ImageEditorConsole.csproj.CopyComplete
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.2\ImageEditorConsole.dll
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.2\ImageEditorConsole.pdb

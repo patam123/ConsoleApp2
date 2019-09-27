@@ -1,0 +1,17 @@
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\bin\Debug\netcoreapp2.2\NUnitTestImageEditor+FileManager.deps.json
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\bin\Debug\netcoreapp2.2\NUnitTestImageEditor+FileManager.runtimeconfig.json
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\bin\Debug\netcoreapp2.2\NUnitTestImageEditor+FileManager.runtimeconfig.dev.json
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\bin\Debug\netcoreapp2.2\NUnitTestImageEditor+FileManager.dll
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\bin\Debug\netcoreapp2.2\NUnitTestImageEditor+FileManager.pdb
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\bin\Debug\netcoreapp2.2\ImageEditorClassLibrary.dll
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\bin\Debug\netcoreapp2.2\ImageEditorClassLibrary.pdb
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\obj\Debug\netcoreapp2.2\NUnitTestImageEditor+FileManager.csprojAssemblyReference.cache
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\obj\Debug\netcoreapp2.2\NUnitTestImageEditor+FileManager.csproj.CoreCompileInputs.cache
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\obj\Debug\netcoreapp2.2\NUnitTestImageEditor+FileManager.AssemblyInfoInputs.cache
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\obj\Debug\netcoreapp2.2\NUnitTestImageEditor+FileManager.AssemblyInfo.cs
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\obj\Debug\netcoreapp2.2\NUnitTestImageEditor+FileManager.csproj.CopyComplete
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\obj\Debug\netcoreapp2.2\NUnitTestImageEditor+FileManager.dll
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\NUnitTestImageEditor\obj\Debug\netcoreapp2.2\NUnitTestImageEditor+FileManager.pdb

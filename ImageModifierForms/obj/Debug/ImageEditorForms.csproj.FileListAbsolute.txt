@@ -1,0 +1,14 @@
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageModifierForms\bin\Debug\ImageModifierForms.exe.config
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageModifierForms\bin\Debug\ImageModifierForms.exe
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageModifierForms\bin\Debug\ImageModifierForms.pdb
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageModifierForms\bin\Debug\ImageEditorClassLibrary.dll
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageModifierForms\bin\Debug\System.Drawing.Common.dll
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageModifierForms\bin\Debug\ImageEditorClassLibrary.pdb
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageModifierForms\obj\Debug\ImageEditorForms.csprojAssemblyReference.cache
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageModifierForms\obj\Debug\ImageModifierForms.Form1.resources
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageModifierForms\obj\Debug\ImageModifierForms.Properties.Resources.resources
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageModifierForms\obj\Debug\ImageEditorForms.csproj.GenerateResource.cache
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageModifierForms\obj\Debug\ImageEditorForms.csproj.CoreCompileInputs.cache
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageModifierForms\obj\Debug\ImageEditorForms.csproj.CopyComplete
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageModifierForms\obj\Debug\ImageModifierForms.exe
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageModifierForms\obj\Debug\ImageModifierForms.pdb

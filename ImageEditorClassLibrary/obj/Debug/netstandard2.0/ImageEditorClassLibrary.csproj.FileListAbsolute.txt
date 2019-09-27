@@ -1,0 +1,9 @@
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageEditorClassLibrary\bin\Debug\netstandard2.0\ImageEditorClassLibrary.deps.json
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageEditorClassLibrary\bin\Debug\netstandard2.0\ImageEditorClassLibrary.dll
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageEditorClassLibrary\bin\Debug\netstandard2.0\ImageEditorClassLibrary.pdb
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageEditorClassLibrary\obj\Debug\netstandard2.0\ImageEditorClassLibrary.csprojAssemblyReference.cache
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageEditorClassLibrary\obj\Debug\netstandard2.0\ImageEditorClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageEditorClassLibrary\obj\Debug\netstandard2.0\ImageEditorClassLibrary.AssemblyInfoInputs.cache
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageEditorClassLibrary\obj\Debug\netstandard2.0\ImageEditorClassLibrary.AssemblyInfo.cs
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageEditorClassLibrary\obj\Debug\netstandard2.0\ImageEditorClassLibrary.dll
+C:\Users\91patham\Desktop\Prog\ConsoleApp2\ImageEditorClassLibrary\obj\Debug\netstandard2.0\ImageEditorClassLibrary.pdb
